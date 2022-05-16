@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797169124361",
+    "firebase_url": "https://projet-mobile-37954-default-rtdb.firebaseio.com",
+    "project_id": "projet-mobile-37954",
+    "storage_bucket": "projet-mobile-37954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797169124361:android:195f146e303ae51a0824d8",
+        "android_client_info": {
+          "package_name": "com.example.mobapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797169124361-ftfa5ke0rb6a2gppoa0gkm3qssg08llo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9gquj6Z0tqhD75vqiag2iTfPNEENe6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797169124361-ftfa5ke0rb6a2gppoa0gkm3qssg08llo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
